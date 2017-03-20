@@ -1,2 +1,2 @@
-# angulrjs
+# angJS
 angularjs basics
